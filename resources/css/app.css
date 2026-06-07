@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@config "../../tailwind.config.js";
+
+@theme {
+    --color-bali-dark: #0A192F;
+    --color-bali-light: #38BDF8;
+}
